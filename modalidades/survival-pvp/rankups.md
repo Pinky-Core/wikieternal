@@ -1,5 +1,6 @@
 ---
 description: ¿Cómo subo de rango? ¿Cuál es mi recompensa por subir?
+hidden: true
 ---
 
 # 🥇 Rankups

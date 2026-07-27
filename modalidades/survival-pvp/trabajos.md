@@ -1,5 +1,6 @@
 ---
 description: ¿Cuáles son los trabajos en Survival? ¿Cómo me uno a un trabajo?
+hidden: true
 ---
 
 # 🚸 Trabajos
