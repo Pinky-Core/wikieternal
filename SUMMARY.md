@@ -34,6 +34,3 @@
   * [🥶 Koth](modalidades/survival-pvp/koth.md)
   * [🧩 Marcos invisibles](modalidades/survival-pvp/marcos-invisibles.md)
   * [👀 Mercado](modalidades/survival-pvp/mercado.md)
-* [💣 Practice](modalidades/practice/README.md)
-  * [🏹 Sistema de kits](modalidades/practice/sistema-de-kits.md)
-  * [⚔️ Duels](modalidades/practice/duels.md)

@@ -1,5 +1,6 @@
 ---
 description: Aquí podrás encontrar información acerca de Practice
+hidden: true
 ---
 
 # 💣 Practice
