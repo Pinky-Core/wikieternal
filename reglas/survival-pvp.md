@@ -4,26 +4,36 @@ description: Reglas de la modalidad Semianárquico.
 
 # ⚔️ Semianárquico
 
-{% hint style="warning" %}
-Al jugar/interactuar en **EternalSMP** aceptas nuestras normas, el hecho de no saberlas, no te hace inocente ante ninguna situación. Estas normas se siguen al pie de la letra y el personal tiene permitido sancionar por alguna otra razón que no se encuentre en este documento con la autorización del Equipo Directivo. En las normativas de EternalSMP usamos el sentido común, por favor, úsalo tu también.\
-\
-La administración de **EternalSMP** puede modificar este reglamento cuando sea necesario y sin previo aviso.
-{% endhint %}
+> <mark style="color:#9000df;">**IMPORTANTE:**</mark> Al jugar en **EternalSMP** aceptas la normativa general y las reglas de esta modalidad. La administración puede actualizar esta normativa cuando sea necesario.
 
 ## <mark style="color:#9000df;">REGLAS DE SEMIANÁRQUICO</mark>
 
-1. No griffear bases claimeadas <mark style="color:red;">(SI SE PUEDE CLAIMEAR GRANJAS/BASES NO CLAIMEADAS)</mark>
-2. Ilegal la granja de obsidiana (end)
-3. TpaKill legal <mark style="color:red;">(EXCEPTO EN PROTECCIONES)</mark>&#x20;
-4. Estafas ilegales como tanto en /ah, /pwarps, etc.
-5. Spam de tpa es sancionable
-6. No maquinas de AntiAFK
-7. Las granjas automáticas están permitidas, pero deben ser limitadas en tamaño y cantidad de entidades para evitar generar lag.
-8. No se permite uso de herramientas, entidades y objetos en general con nombres inapropiados o racistas
-9. Prohibido el uso de nombres inapropiados con el comando /nick
-10. No se permite usar el /nick para burlase de los demás
-11. No se permite abusar del /ah, poner precios exagerados
-12. No se permite pegar dentro del spawn o matar dentro de protecciones
+1. El PvP, los robos y el saqueo de bases están permitidos fuera de las zonas protegidas.
+2. Está permitido destruir construcciones y bases que no estén dentro de una zona protegida por el servidor.
+3. El **TPAKill está permitido**.
+4. El **TrapKill está permitido**.
+5. Las estafas y los engaños mediante **/ah** no están permitidos.
+6. No se permite aprovechar bugs, duplicar objetos ni ocultar fallos del servidor. Todo error debe reportarse al equipo.
+7. Quedan prohibidas las máquinas de lag, construcciones destinadas a perjudicar el rendimiento y mecanismos excesivos.
+8. No se permite evadir sanciones, usar cuentas alternativas para obtener ventajas o abusar de errores en la protección.
+9. El spawn y las demás zonas seguras deben respetarse.
+10. Las amenazas reales, la divulgación de información personal, el acoso y el contenido discriminatorio siguen prohibidos.
+11. No se permite suplantar al equipo, engañar sobre decisiones administrativas ni utilizar nombres inapropiados.
+12. Además de estas reglas, se aplica en todo momento la [normativa general](normativa-general.md).
+
+## <mark style="color:#9000df;">MODS PERMITIDOS</mark>
+
+* Freecam
+* X-Ray
+* Marlowww Crystal
+* ChestESP
+
+## <mark style="color:#9000df;">MODS NO PERMITIDOS</mark>
+
+* Macros
+* Hacks
+* Litemática
+* Cualquier otra modificación que otorgue ventajas y no aparezca expresamente en la lista de mods permitidos.
 
 
 
@@ -32,6 +42,6 @@ Estas son las reglas básicas de esta modalidad. Podrás encontrar las reglas ge
 
 
 {% hint style="info" %}
-TIP: Si encuentras algún jugador incumpliendo la normativa, por favor abre un ticket en nuestro [Discord](https://wiki.eternalsmp.lat).
+TIP: Si encuentras algún jugador incumpliendo la normativa, abre un ticket en nuestro [Discord](https://discord.eternalsmp.lat).
 {% endhint %}
 

@@ -35,5 +35,5 @@ Usa <mark style="color:purple;">**/warp \[nombre]**</mark> y podrás teletranspo
 
 
 {% hint style="info" %}
-TIP: Si tienes mas dudas, únete al [discord](https://wiki.eternalsmp.lat) del servidor y abre ticket y pregunta al staff sin problema alguno ;).
+TIP: Si tienes mas dudas, únete al [discord](https://discord.eternalsmp.lat) del servidor y abre ticket y pregunta al staff sin problema alguno ;).
 {% endhint %}

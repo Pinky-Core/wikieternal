@@ -8,7 +8,7 @@ description: ¿Como usar las protecciones?
 
 Puedes conseguir una proteccion usando **/protecciones** o tambien reclamando la proteccion gratuita en **/kits**.
 
-Tambien puedes adquirir protecciones mas rapido en nuestra [tienda online](https://wiki.eternalsmp.lat).
+Tambien puedes adquirir protecciones mas rapido en nuestra [tienda online](https://www.eternalsmp.lat).
 
 ## <mark style="color:#9000df;">COMANDOS:</mark>
 
@@ -24,5 +24,5 @@ Tambien puedes adquirir protecciones mas rapido en nuestra [tienda online](https
 | /protecciones          | Compra protecciones                           |
 
 {% hint style="info" %}
-TIP: Si tienes mas dudas, únete al [discord](https://wiki.eternalsmp.lat) del servidor y abre ticket y pregunta al staff sin problema alguno ;).
+TIP: Si tienes mas dudas, únete al [discord](https://discord.eternalsmp.lat) del servidor y abre ticket y pregunta al staff sin problema alguno ;).
 {% endhint %}

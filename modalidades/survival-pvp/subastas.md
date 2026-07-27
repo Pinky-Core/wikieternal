@@ -28,10 +28,10 @@ Si y siempre cuando sean razonables, ya que hay sanción por poner cualquier cos
 
 ## <mark style="color:#9000df;">**¿Fuiste sancionado del /ah?**</mark>
 
-Tienes que ir al [discord](https://wiki.eternalsmp.lat) del servidor para que te remuevan de la blacklist de <mark style="color:purple;">**/ah**</mark>.
+Tienes que ir al [discord](https://discord.eternalsmp.lat) del servidor para que te remuevan de la blacklist de <mark style="color:purple;">**/ah**</mark>.
 
 
 
 {% hint style="info" %}
-TIP: Si tienes mas dudas, únete al [discord](https://wiki.eternalsmp.lat) del servidor y abre ticket y pregunta al staff sin problema alguno ;).
+TIP: Si tienes mas dudas, únete al [discord](https://discord.eternalsmp.lat) del servidor y abre ticket y pregunta al staff sin problema alguno ;).
 {% endhint %}

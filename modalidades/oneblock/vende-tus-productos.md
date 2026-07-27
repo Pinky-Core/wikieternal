@@ -4,7 +4,7 @@ description: Tutorial como poner el comprar y vender.
 
 # 👀 Vende tus productos
 
-## <mark style="color:yellow;">\[!]</mark> <mark style="color:#9000df;">Como crear tu tienda</mark>
+## <mark style="color:#9000df;">\[!] Como crear tu tienda</mark>
 
 ¿Hiciste una tienda en tu isla y no sabes hacerla?
 
@@ -20,8 +20,8 @@ Si quieres remover el cartel deberas usar **/qs remove** mirando el cartel.
 
 
 
-<mark style="color:red;">**AVISO:**</mark>**&#x20;El uso de estas tiendas para estafas esta totalmente ilegal, si te ocurrio no dudes reportarlo en nuestro** [**Discord**](https://wiki.eternalsmp.lat)
+<mark style="color:red;">**AVISO:**</mark>**&#x20;El uso de estas tiendas para estafas esta totalmente ilegal, si te ocurrio no dudes reportarlo en nuestro** [**Discord**](https://discord.eternalsmp.lat)
 
 {% hint style="info" %}
-TIP: Si tienes mas dudas, únete al [discord](https://wiki.eternalsmp.lat) del servidor y abre ticket y pregunta al staff sin problema alguno ;).
+TIP: Si tienes mas dudas, únete al [discord](https://discord.eternalsmp.lat) del servidor y abre ticket y pregunta al staff sin problema alguno ;).
 {% endhint %}

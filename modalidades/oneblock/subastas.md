@@ -33,5 +33,5 @@ Tienes que ir al [discord](https://discord.lostaroleros.com) del servidor para q
 
 
 {% hint style="info" %}
-TIP: Si tienes mas dudas, únete al [discord](https://wiki.eternalsmp.lat) del servidor y abre ticket y pregunta al staff sin problema alguno ;).
+TIP: Si tienes mas dudas, únete al [discord](https://discord.eternalsmp.lat) del servidor y abre ticket y pregunta al staff sin problema alguno ;).
 {% endhint %}
