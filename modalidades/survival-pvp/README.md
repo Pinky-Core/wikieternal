@@ -11,5 +11,5 @@ description: Aquí podrás encontrar información acerca de Semianárquico
 
 
 {% hint style="danger" %}
-Por favor antes de pedir soporte en [discord](https://wiki.eternalsmp.lat), debes de haber leído la documentación escrita en la wiki del servidor.
+Por favor antes de pedir soporte en [discord](https://discord.eternalsmp.lat), debes de haber leído la documentación escrita en la wiki del servidor.
 {% endhint %}

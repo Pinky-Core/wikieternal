@@ -34,7 +34,7 @@ Permite teletransportar hacia los jugadores.
 Permite aceptar las solicitudes de los jugadores.
 
 <mark style="color:#9000df;">**/sethome \[nombre]**</mark>\
-Permite guardar tu casa/base para que no la pierdas. Si quieres mas homes visita nuestra [Tienda del servidor](https://wiki.eternalsmp.lat).
+Permite guardar tu casa/base para que no la pierdas. Si quieres mas homes visita nuestra [Tienda del servidor](https://www.eternalsmp.lat).
 
 <mark style="color:#9000df;">**/home \[nombre]**</mark>\
 Permite teletransportar a tu base/casa, con el nombre que la hayas guardado.

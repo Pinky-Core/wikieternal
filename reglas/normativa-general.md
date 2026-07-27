@@ -100,5 +100,5 @@ Queda **estrictamente prohibido** el uso de cuentas adicionales, ya sea para dej
 
 
 {% hint style="info" %}
-TIP: Si encuentras algún jugador incumpliendo la normativa, por favor abre un ticket en nuestro [Discord](https://wiki.eternalsmp.lat).
+TIP: Si encuentras algún jugador incumpliendo la normativa, por favor abre un ticket en nuestro [Discord](https://discord.eternalsmp.lat).
 {% endhint %}

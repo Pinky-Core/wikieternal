@@ -5,7 +5,7 @@ hidden: true
 
 # 🔐 Copy of Protecciones
 
-## <mark style="color:yellow;">COMANDOS</mark>
+## <mark style="color:#9000df;">COMANDOS</mark>
 
 
 

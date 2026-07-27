@@ -21,7 +21,7 @@ Estamos emocionados de anunciar que abrimos postulaciones para nuevos miembros d
 
 ## <mark style="color:#9000df;">Enlace para postularse:</mark>
 
-* Completa el formulario de postulación: [HAZ CLICK AQUI](https://wiki.eternalsmp.lat/)
+* Completa el formulario de postulación: [HAZ CLICK AQUI](https://discord.eternalsmp.lat/)
 
 
 

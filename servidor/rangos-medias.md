@@ -89,5 +89,5 @@ Prefijo Streamer
 {% hint style="success" %}
 ¿Ya tienes todos los requisitos de un rango que quieras reclamar?
 
-Unete a nuestro [discord](https://wiki.eternalsmp.lat) y abre un ticket para pedir el rango media!
+Unete a nuestro [discord](https://discord.eternalsmp.lat) y abre un ticket para pedir el rango media!
 {% endhint %}

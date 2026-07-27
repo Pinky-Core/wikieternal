@@ -9,6 +9,10 @@
 * [👮 Postulaciones](servidor/postulaciones.md)
 * [📸 Rangos Medias](servidor/rangos-medias.md)
 
+## 🤝 PATROCINADOR
+
+* [🟠 KantHosting](kanthosting.md)
+
 ## 🎾 reglas
 
 * [👶 Normativa general](reglas/normativa-general.md)

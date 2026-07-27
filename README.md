@@ -1,10 +1,12 @@
 ---
 description: Wiki del servidor de Minecraft EternalSMP.
-cover: .gitbook/assets/banner.jpg
+cover: .gitbook/assets/banner-eternalsmp.jpg
 coverY: 84
 ---
 
 # 📖 Wiki de EternalSMP
+
+<figure><img src=".gitbook/assets/eternalsmp-logo.png" alt="Logo de EternalSMP"><figcaption></figcaption></figure>
 
 ### <mark style="color:#9000df;">¡Bienvenid@!</mark>
 
@@ -21,14 +23,14 @@ Somos la comunidad de EternalSMP, donde podrás disfrutar de distintas modalidad
 
 ## <mark style="color:#9000df;">IP DEL SERVIDOR:</mark>
 
-**JAVA:** wiki.eternalsmp.lat
+**JAVA:** eternalsmp.lat
 
-**BEDROCK:** wiki.eternalsmp.lat Puerto: 19132
+**BEDROCK:** eternalsmp.lat — Puerto: 19132
 
 ¿No sabes entrar en bedrock? [Click aquí.](servidor/faq.md#como-se-entra-en-bedrock-al-servidor)
 
 ### <mark style="color:#9000df;">REDES DE ETERNALSMP</mark>
 
-Nuestra web oficial: [¡Click aquí!](https://wiki.eternalsmp.lat)
+Nuestra web oficial: [¡Click aquí!](https://www.eternalsmp.lat)
 
-Nuestro discord: [¡Click aquí!](https://wiki.eternalsmp.lat)
+Nuestro Discord oficial: [¡Click aquí!](https://discord.eternalsmp.lat)
