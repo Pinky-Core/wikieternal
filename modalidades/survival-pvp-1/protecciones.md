@@ -4,13 +4,13 @@ description: ¿Como usar las protecciones?
 
 # 🔐 Protecciones
 
-## <mark style="color:blue;">INFORMACION:</mark>
+## <mark style="color:#9000df;">INFORMACION:</mark>
 
 Puedes conseguir una proteccion usando **/protecciones** o tambien reclamando la proteccion gratuita en **/kits**.
 
-Tambien puedes adquirir protecciones mas rapido en nuestra [tienda online](https://tienda.satipocraft.net).
+Tambien puedes adquirir protecciones mas rapido en nuestra [tienda online](https://wiki.eternalsmp.lat).
 
-## <mark style="color:blue;">COMANDOS:</mark>
+## <mark style="color:#9000df;">COMANDOS:</mark>
 
 | Comando                | Descripcion                                   |
 | ---------------------- | --------------------------------------------- |
@@ -24,5 +24,5 @@ Tambien puedes adquirir protecciones mas rapido en nuestra [tienda online](https
 | /protecciones          | Compra protecciones                           |
 
 {% hint style="info" %}
-TIP: Si tienes mas dudas, únete al [discord](https://discord.satipocraft.net) del servidor y abre ticket y pregunta al staff sin problema alguno ;).
+TIP: Si tienes mas dudas, únete al [discord](https://wiki.eternalsmp.lat) del servidor y abre ticket y pregunta al staff sin problema alguno ;).
 {% endhint %}

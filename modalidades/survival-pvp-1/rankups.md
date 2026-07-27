@@ -4,11 +4,11 @@ description: ¿Cómo subo de rango? ¿Cuál es mi recompensa por subir?
 
 # 🥇 Rankups
 
-## <mark style="color:blue;">¿Cómo subo de rango?</mark>
+## <mark style="color:#9000df;">¿Cómo subo de rango?</mark>
 
 Para subir de rango deberás ejecutar <mark style="color:purple;">**/rankup**</mark> y obviamente tener los requisitos pedidos por el rango.
 
-## <mark style="color:blue;">¿Cuál es mi recompensa por subir?</mark>
+## <mark style="color:#9000df;">¿Cuál es mi recompensa por subir?</mark>
 
 Las recompensas para subir de rango se encuentran en la parte inferior de esta pagina.
 

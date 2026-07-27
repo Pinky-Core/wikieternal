@@ -1,13 +1,12 @@
 ---
 description: Aquí podrás encontrar información acerca de Practice
-hidden: true
 ---
 
 # 💣 Practice
 
 
 
-<mark style="color:orange;">**Practice:**</mark> Un lugar en donde podras practicar de crystalpvp y potpvp.
+<mark style="color:#9000df;">**Practice:**</mark> Un lugar donde podrás practicar Crystal PvP y Pot PvP.
 
 
 

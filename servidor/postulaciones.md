@@ -1,14 +1,14 @@
 ---
-description: ¿Quieres formar parte del Staff de SatipoCraft?
+description: ¿Quieres formar parte del Staff de EternalSMP?
 ---
 
 # 👮 Postulaciones
 
-## **¡ÚNETE AL EQUIPO SATIPOCRAFT!**&#x20;
+## **¡ÚNETE AL EQUIPO ETERNALSMP!**&#x20;
 
 Estamos emocionados de anunciar que abrimos postulaciones para nuevos miembros del staff. Si te apasiona Minecraft y quieres ayudar a crear una comunidad increíble, **¡esta es tu oportunidad!**
 
-## <mark style="color:blue;">**Requisitos mínimos:**</mark>
+## <mark style="color:#9000df;">**Requisitos mínimos:**</mark>
 
 * Tener mínimo 16 años.
 * Tener la capacidad de grabar.&#x20;
@@ -19,9 +19,9 @@ Estamos emocionados de anunciar que abrimos postulaciones para nuevos miembros d
 * Saber de la SS y tener experiencia en ello (Screenshare)
 * Tener rango en el servidor (No es obligatorio ni necesario, pero es valorado)
 
-## <mark style="color:blue;">Enlace para postularse:</mark>
+## <mark style="color:#9000df;">Enlace para postularse:</mark>
 
-* Completa el formulario de postulación: [HAZ CLICK AQUI](https://discord.satipocraft.net/)
+* Completa el formulario de postulación: [HAZ CLICK AQUI](https://wiki.eternalsmp.lat/)
 
 
 

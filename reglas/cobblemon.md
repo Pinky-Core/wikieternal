@@ -6,12 +6,12 @@ hidden: true
 # 🦜 Cobblemon
 
 {% hint style="warning" %}
-Al jugar/interactuar en **SatipoCraft** aceptas nuestras normas, el hecho de no saberlas, no te hace inocente ante ninguna situación. Estas normas se siguen al pie de la letra y el personal tiene permitido sancionar por alguna otra razón que no se encuentre en este documento con la autorización del Equipo Directivo. En las normativas de SatipoCraft usamos el sentido común, por favor, úsalo tu también.\
+Al jugar/interactuar en **EternalSMP** aceptas nuestras normas, el hecho de no saberlas, no te hace inocente ante ninguna situación. Estas normas se siguen al pie de la letra y el personal tiene permitido sancionar por alguna otra razón que no se encuentre en este documento con la autorización del Equipo Directivo. En las normativas de EternalSMP usamos el sentido común, por favor, úsalo tu también.\
 \
-La administración de **SatipoCraft** puede modificar este reglamento cuando sea necesario y sin previo aviso.
+La administración de **EternalSMP** puede modificar este reglamento cuando sea necesario y sin previo aviso.
 {% endhint %}
 
-## <mark style="color:blue;">**REGLAS DE COBBLEMON**</mark>
+## <mark style="color:#9000df;">**REGLAS DE COBBLEMON**</mark>
 
 1. Respeta a los jugadores y evita la toxicidad.\
    1.1 No insultes, molestes ni te aproveches de otros jugadores.
@@ -67,5 +67,5 @@ Estas son las reglas básicas de esta modalidad. Podrás encontrar las reglas ge
 
 
 {% hint style="info" %}
-TIP: Si encuentras algún jugador incumpliendo la normativa, por favor abre un ticket en nuestro [Discord](https://discord.satipocraft.net).
+TIP: Si encuentras algún jugador incumpliendo la normativa, por favor abre un ticket en nuestro [Discord](https://wiki.eternalsmp.lat).
 {% endhint %}

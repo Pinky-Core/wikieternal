@@ -30,7 +30,7 @@ hidden: true
 | /transferpet                              | Transferir mascota por ejemplo lobo        |
 | /trapped                                  | TE QUEDASTE ATRAPADAAAA? Listo usalo       |
 
-## <mark style="color:blue;">TUTORIAL:</mark>
+## <mark style="color:#9000df;">TUTORIAL:</mark>
 
 {% embed url="https://www.youtube.com/watch?v=j28Xj0nNe4g" %}
 

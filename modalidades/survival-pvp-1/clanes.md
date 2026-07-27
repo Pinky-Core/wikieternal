@@ -5,7 +5,7 @@ hidden: true
 
 # 👬 Clanes
 
-## <mark style="color:blue;">INFORMACION:</mark>
+## <mark style="color:#9000df;">INFORMACION:</mark>
 
 Al crear un clan le cobrara **$8.000**
 
@@ -43,7 +43,7 @@ Al crear un clan le cobrara **$8.000**
 * Maximos de alianzas: 4
 * Cofre de clan: 4
 
-## <mark style="color:blue;">COMANDOS:</mark>
+## <mark style="color:#9000df;">COMANDOS:</mark>
 
 | Comando                        | Descripcion                                                       |
 | ------------------------------ | ----------------------------------------------------------------- |

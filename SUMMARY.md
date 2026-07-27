@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📖 Wiki de SatipoCraft](README.md)
+* [📖 Wiki de EternalSMP](README.md)
 * [📚 Comandos generales](comandos-generales.md)
 
 ## 💻 SERVIDOR
@@ -14,16 +14,14 @@
 * [👶 Normativa general](reglas/normativa-general.md)
 * [😂 Clientes](reglas/clientes.md)
 * [🤔 Responsabilidades](reglas/responsabilidades.md)
-* [🌳 Survival PVP](reglas/survival-pvp.md)
-* [🏝️ SkyBlock](reglas/skyblock.md)
-* [🏝️ OneBlock](reglas/oneblock.md)
-* [🦜 Cobblemon](reglas/cobblemon.md)
-* [🌊 BoxPvP](reglas/boxpvp.md)
+* [⚔️ Semianárquico](reglas/survival-pvp.md)
+* [🌳 Survival](reglas/survival.md)
+* [🏝️ SkyBlock Custom](reglas/skyblock.md)
 
 ## 😎 MODALIDADES
 
-* [🌳 Survival PvP](modalidades/survival-pvp/README.md)
-  * [🚗 Básico de Survival](modalidades/survival-pvp/basico-de-survival.md)
+* [⚔️ Semianárquico](modalidades/survival-pvp/README.md)
+  * [🚗 Básico de Semianárquico](modalidades/survival-pvp/basico-de-survival.md)
   * [👬 Clanes](modalidades/survival-pvp/clanes.md)
   * [🚸 Trabajos](modalidades/survival-pvp/trabajos.md)
   * [🔐 Protecciones](modalidades/survival-pvp/protecciones.md)
@@ -35,7 +33,7 @@
   * [🥶 Koth](modalidades/survival-pvp/koth.md)
   * [🧩 Marcos invisibles](modalidades/survival-pvp/marcos-invisibles.md)
   * [👀 Mercado](modalidades/survival-pvp/mercado.md)
-* [🌳 Survival PVP](modalidades/survival-pvp-1/README.md)
+* [🌳 Survival](modalidades/survival-pvp-1/README.md)
   * [🚗 Básico de Survival](modalidades/survival-pvp-1/basico-de-survival.md)
   * [👬 Clanes](modalidades/survival-pvp-1/clanes.md)
   * [🚸 Trabajos](modalidades/survival-pvp-1/trabajos.md)
@@ -49,7 +47,7 @@
   * [🥶 Koth](modalidades/survival-pvp-1/koth.md)
   * [🧩 Marcos invisibles](modalidades/survival-pvp-1/marcos-invisibles.md)
   * [👀 Crear Tienda](modalidades/survival-pvp-1/crear-tienda.md)
-* [🏝️ SkyBlock](modalidades/skyblock/README.md)
+* [🏝️ SkyBlock Custom](modalidades/skyblock/README.md)
   * [🚙 Básico de SkyBlock](modalidades/skyblock/basico-de-skyblock.md)
   * [🥶 Koth](modalidades/skyblock/koth.md)
   * [🏠 Subastas](modalidades/skyblock/subastas.md)
@@ -57,15 +55,6 @@
   * [🥇 Rankups](modalidades/skyblock/rankups.md)
   * [👀 Vende tus productos](modalidades/skyblock/vende-tus-productos.md)
   * [🐷 Entidades por Chunk](modalidades/skyblock/entidades-por-chunk.md)
-* [1️ OneBlock](modalidades/oneblock/README.md)
-  * [🚙 Básico de OneBlock](modalidades/oneblock/basico-de-oneblock.md)
-  * [🥶 Koth](modalidades/oneblock/koth.md)
-  * [🏠 Subastas](modalidades/oneblock/subastas.md)
-  * [🔋 Elevadores](modalidades/oneblock/elevadores.md)
-  * [🥇 Rankups](modalidades/oneblock/rankups.md)
-  * [👀 Vende tus productos](modalidades/oneblock/vende-tus-productos.md)
-  * [🐷 Entidades por Chunk](modalidades/oneblock/entidades-por-chunk.md)
 * [💣 Practice](modalidades/practice/README.md)
   * [🏹 Sistema de kits](modalidades/practice/sistema-de-kits.md)
   * [⚔️ Duels](modalidades/practice/duels.md)
-* [🌊 BoxPvP](modalidades/boxpvp.md)
