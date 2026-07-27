@@ -1,5 +1,6 @@
 ---
 description: Aquí podrás encontrar información acerca de SkyBlock Custom.
+hidden: true
 ---
 
 # 🏝️ SkyBlock Custom

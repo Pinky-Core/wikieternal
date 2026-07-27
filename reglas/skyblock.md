@@ -1,5 +1,6 @@
 ---
 description: Reglas de SkyBlock Custom.
+hidden: true
 ---
 
 # 🏝️ SkyBlock Custom

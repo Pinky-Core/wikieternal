@@ -1,5 +1,6 @@
 ---
 description: Aquí podrás encontrar información acerca de Survival
+hidden: true
 ---
 
 # 🌳 Survival
