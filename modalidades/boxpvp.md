@@ -5,7 +5,7 @@ hidden: true
 
 # 🌊 BoxPvP
 
-## <mark style="color:blue;">¡COMENCEMOS!</mark>
+## <mark style="color:#9000df;">¡COMENCEMOS!</mark>
 
 Al ingresar a nuestra modalidad de **BoxPvP** te encontrarás con un spawn ambientado en una jungla, donde podrás ver y descubrir muchas cosas que te ayudarán al inicio de tu aventura. ¡Kits de pago, rangos, portales a diferentes lugares, cajas, tradeos y mucho más! Por lo tanto en esta guía, te ayudaremos con todo lo que necesitas saber para comenzar y poder convertirte en un verdadero aventurero.
 
@@ -13,7 +13,7 @@ Al ingresar a nuestra modalidad de **BoxPvP** te encontrarás con un spawn ambie
 
 
 
-### <mark style="color:red;">⛏️</mark> <mark style="color:blue;">MINA INICIAL:  - El comienzo de nuestro viaje</mark> <a href="#mina-1-hangar-el-comienzo-de-nuestro-viaje" id="mina-1-hangar-el-comienzo-de-nuestro-viaje"></a>
+### <mark style="color:red;">⛏️</mark> <mark style="color:#9000df;">MINA INICIAL:  - El comienzo de nuestro viaje</mark> <a href="#mina-1-hangar-el-comienzo-de-nuestro-viaje" id="mina-1-hangar-el-comienzo-de-nuestro-viaje"></a>
 
 En primer lugar, debes dirigirte a la mina **INICIAL**, se encuentra justamente atrás de donde apareces, en esta mina deberás picar bloques de sangre, luego acercarte al saqueador que tiene de nombre Tradeo Items y podremos obtener una pieza de armadura, elytras, pico, espada y artefacto para nuestra mano secundaria.
 
@@ -21,7 +21,7 @@ En primer lugar, debes dirigirte a la mina **INICIAL**, se encuentra justamente 
 
 
 
-### ⛏️ <mark style="color:blue;">**MINAS: de la 1 a la 12**</mark> <a href="#minas-de-la-2-a-la-16" id="minas-de-la-2-a-la-16"></a>
+### ⛏️ <mark style="color:#9000df;">**MINAS: de la 1 a la 12**</mark> <a href="#minas-de-la-2-a-la-16" id="minas-de-la-2-a-la-16"></a>
 
 Este viaje te llevará por las distintas minas disponibles, cada una de ellas más compleja que la anterior. Una vez conseguido todos los items de la mina Inicial deberemos seguir por el resto de las minas, obteniendo los bloques compactados e intercambiandolos con el compactador y el NPC correspondiente por el siguiente objeto, cada mina pide 1 bloque compactado más que el anterior.
 
@@ -31,7 +31,7 @@ El orden de las minas a las cuales debes dirigirte es el siguiente:
 
 
 
-### **⛏️&#x20;**<mark style="color:blue;">**MINAS CÉNTRICAS: Orbes y Minerales**</mark> <a href="#minas-centricas-karma-y-monedas" id="minas-centricas-karma-y-monedas"></a>
+### **⛏️&#x20;**<mark style="color:#9000df;">**MINAS CÉNTRICAS: Orbes y Minerales**</mark> <a href="#minas-centricas-karma-y-monedas" id="minas-centricas-karma-y-monedas"></a>
 
 La economía de esta modalidad se basa en 5 puntos importantes: **Minerales - Orbes Lunares** - **Lunim** - **Espectrum - Lunaris**
 
@@ -45,7 +45,7 @@ En el medio se encuentra la **mina de Netherita**, con los bloques podrás conse
 
 
 
-### **🫴&#x20;**<mark style="color:blue;">**TRADEOS**</mark> <a href="#tradeos" id="tradeos"></a>
+### **🫴&#x20;**<mark style="color:#9000df;">**TRADEOS**</mark> <a href="#tradeos" id="tradeos"></a>
 
 La zona de tradeos se encuentra en la parte derecha del spawn apenas ingresas a la modalidad. La misma cuenta con 8 tradeos diferentes en este momento:
 
@@ -59,13 +59,13 @@ La zona de tradeos se encuentra en la parte derecha del spawn apenas ingresas a 
 
 
 
-### **📦&#x20;**<mark style="color:blue;">**CAJAS**</mark> <a href="#cajas" id="cajas"></a>
+### **📦&#x20;**<mark style="color:#9000df;">**CAJAS**</mark> <a href="#cajas" id="cajas"></a>
 
 Justo a la izquierda del Spawn nos encontramos con la **zona de cajas** las cuales se abren solo con llaves que podes conseguir de otras cajas, en eventos, votando por el servidor o comprándolas en la tienda.
 
 <figure><img src="../.gitbook/assets/2025-05-24_19.08.32.png" alt=""><figcaption><p>Cajas</p></figcaption></figure>
 
-### **🥅&#x20;**<mark style="color:blue;">**PORTALES**</mark> <a href="#portales" id="portales"></a>
+### **🥅&#x20;**<mark style="color:#9000df;">**PORTALES**</mark> <a href="#portales" id="portales"></a>
 
 Cuando ingresas a la modalidad, te encontrarás con 2 portales.
 

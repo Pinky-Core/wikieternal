@@ -8,14 +8,14 @@ description: ¿Cuáles son los trabajos en Survival? ¿Cómo me uno a un trabajo
 
 <mark style="color:red;">**INDICE**</mark>
 
-[<mark style="color:blue;">\[ 1 \]</mark> - Comenzar con un trabajo. ](trabajos.md#1)\
-[<mark style="color:blue;">\[ 2 \]</mark> - Información extra sobre los trabajos. ](trabajos.md#2)\
-[<mark style="color:blue;">\[ 3 \]</mark> - Todos los trabajos disponibles y como ganar dinero con cada uno. ](trabajos.md#3)\
-[<mark style="color:blue;">\[ 4 \]</mark> - Ventajas que cada rango tiene con jobs.](trabajos.md#4)
+[<mark style="color:#9000df;">\[ 1 \]</mark> - Comenzar con un trabajo. ](trabajos.md#1)\
+[<mark style="color:#9000df;">\[ 2 \]</mark> - Información extra sobre los trabajos. ](trabajos.md#2)\
+[<mark style="color:#9000df;">\[ 3 \]</mark> - Todos los trabajos disponibles y como ganar dinero con cada uno. ](trabajos.md#3)\
+[<mark style="color:#9000df;">\[ 4 \]</mark> - Ventajas que cada rango tiene con jobs.](trabajos.md#4)
 
 
 
-## <mark style="color:blue;">\[ 1 ] - Comenzar con un trabajo.</mark>
+## <mark style="color:#9000df;">\[ 1 ] - Comenzar con un trabajo.</mark>
 
 <mark style="color:green;">**Survival**</mark>**&#x20;|&#x20;**<mark style="color:red;">**Jobs**</mark>
 
@@ -29,7 +29,7 @@ Si te uniste a un trabajo y quieres abandonarlo usa <mark style="color:purple;">
 
 
 
-## <mark style="color:blue;">\[ 2 ] - Información extra sobre los trabajos.</mark>
+## <mark style="color:#9000df;">\[ 2 ] - Información extra sobre los trabajos.</mark>
 
 <mark style="color:red;">**Extras**</mark>
 
@@ -57,7 +57,7 @@ Usa <mark style="color:purple;">/jobs info \[Trabajo]</mark> para ver como ganas
 
 
 
-## <mark style="color:blue;">\[ 3 ] - Todos los trabajos disponibles y como ganar dinero con cada uno.</mark>
+## <mark style="color:#9000df;">\[ 3 ] - Todos los trabajos disponibles y como ganar dinero con cada uno.</mark>
 
 <mark style="color:red;">**Todos los trabajos disponibles y como ganar dinero con cada uno.**</mark>&#x20;
 
@@ -84,5 +84,5 @@ Usa <mark style="color:purple;">/jobs info \[Trabajo]</mark> para ver como ganas
 
 
 {% hint style="info" %}
-TIP: Si tienes mas dudas, únete al [discord](https://discord.satipocraft.net) del servidor y abre ticket y pregunta al staff sin problema alguno ;).
+TIP: Si tienes mas dudas, únete al [discord](https://wiki.eternalsmp.lat) del servidor y abre ticket y pregunta al staff sin problema alguno ;).
 {% endhint %}

@@ -1,15 +1,15 @@
 ---
-description: Aquí podrás encontrar información acerca de SkyBlock.
+description: Aquí podrás encontrar información acerca de SkyBlock Custom.
 ---
 
-# 🏝️ SkyBlock
+# 🏝️ SkyBlock Custom
 
 
 
-<mark style="color:blue;">**SkyBlock:**</mark> Empezarás con una isla pequeña y a medida que pase el tiempo te irás equipando y  a su vez mejorándola.
+<mark style="color:#9000df;">**SkyBlock Custom:**</mark> Empezarás con una isla pequeña y progresarás con sistemas y contenido personalizado mientras mejoras tu equipamiento y tu isla.
 
 
 
 {% hint style="danger" %}
-Por favor antes de pedir soporte en [discord](https://discord.satipocraft.net), debes de haber leído la documentación escrita en la wiki del servidor.
+Por favor antes de pedir soporte en [discord](https://wiki.eternalsmp.lat), debes de haber leído la documentación escrita en la wiki del servidor.
 {% endhint %}

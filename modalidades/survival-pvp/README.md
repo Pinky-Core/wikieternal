@@ -1,16 +1,15 @@
 ---
-description: Aquí podrás encontrar información acerca de Survival PvP
-hidden: true
+description: Aquí podrás encontrar información acerca de Semianárquico
 ---
 
-# 🌳 Survival PvP
+# ⚔️ Semianárquico
 
 
 
-<mark style="color:green;">**Survival PvP:**</mark> Un mundo en donde tendras que enfretar con todos vs todos y tendras que ser el mas fuerte para derribar el top 1 de las lands, aqui es donde podras encontrar mas información de la modalidad Survival.
+<mark style="color:#9000df;">**Semianárquico:**</mark> Un mundo competitivo donde tendrás que enfrentarte a otros jugadores, formar alianzas y luchar por alcanzar lo más alto.
 
 
 
 {% hint style="danger" %}
-Por favor antes de pedir soporte en [discord](https://discord.satipocraft.net), debes de haber leído la documentación escrita en la wiki del servidor.
+Por favor antes de pedir soporte en [discord](https://wiki.eternalsmp.lat), debes de haber leído la documentación escrita en la wiki del servidor.
 {% endhint %}

@@ -1,12 +1,12 @@
 ---
-description: Wiki del servidor de Minecraft SatipoCraft.
+description: Wiki del servidor de Minecraft EternalSMP.
 cover: .gitbook/assets/banner.jpg
 coverY: 84
 ---
 
-# 📖 Wiki de SatipoCraft
+# 📖 Wiki de EternalSMP
 
-### <mark style="color:blue;">¡Bienvenid@!</mark>
+### <mark style="color:#9000df;">¡Bienvenid@!</mark>
 
 ¿Necesitas ayuda para proteger tu hogar? ¿No sabes los comandos de SkyBlock e Survival? ¿Quieres enviar un mensaje privado a un jugador? \
 El objetivo de esta guía es que puedas resolver todas tus dudas relacionadas con el servidor.&#x20;
@@ -15,20 +15,20 @@ En el **lado izquierdo** puedes encontrar un menú con diferentes apartados.
 
 En la **parte superior** derecha tienes un buscador para agilizar tus dudas.
 
-## <mark style="color:blue;">**¿Quiénes somos?**</mark>
+## <mark style="color:#9000df;">**¿Quiénes somos?**</mark>
 
-Somos la comunidad de SatipoCraft, en donde hacemos disfrutar la gente en donde juega al servidor.
+Somos la comunidad de EternalSMP, donde podrás disfrutar de distintas modalidades junto a otros jugadores.
 
-## <mark style="color:blue;">IP DEL SERVIDOR:</mark>
+## <mark style="color:#9000df;">IP DEL SERVIDOR:</mark>
 
-**JAVA:** mc.satipocraft.net
+**JAVA:** wiki.eternalsmp.lat
 
-**BEDROCK:** mc.satipocraft.net Puerto: 19132
+**BEDROCK:** wiki.eternalsmp.lat Puerto: 19132
 
 ¿No sabes entrar en bedrock? [Click aquí.](servidor/faq.md#como-se-entra-en-bedrock-al-servidor)
 
-### <mark style="color:blue;">REDES DE SATIPOCRAFT</mark>
+### <mark style="color:#9000df;">REDES DE ETERNALSMP</mark>
 
-Nuestra web oficial: [¡Click aquí!](https://www.satipocraft.net)
+Nuestra web oficial: [¡Click aquí!](https://wiki.eternalsmp.lat)
 
-Nuestro discord: [¡Click aquí!](https://discord.satipocraft.net)
+Nuestro discord: [¡Click aquí!](https://wiki.eternalsmp.lat)

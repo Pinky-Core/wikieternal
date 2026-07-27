@@ -8,7 +8,7 @@ description: Aquí están los requisitos de los rangos Media del servidor.
 
 1 videos con mas de 500 Views jugando en el servidor.
 
-Colocar el ip y puerto en descripción #satipocraft
+Colocar el ip y puerto en descripción #eternalsmp
 
 Este rango es mensual y se mantiene subiendo al menos 2 videos por mes&#x20;
 
@@ -36,7 +36,7 @@ Prefijo YouTuber&#x20;
 
 3 videos con mas de 1000 Views jugando en el sv,&#x20;
 
-colocar ip y puerto en pantalla o en descripcion #satipocraft
+colocar ip y puerto en pantalla o en descripcion #eternalsmp
 
 Este rango es mensual y se mantiene subiendo al menos 3 tiktoks por mes&#x20;
 
@@ -89,5 +89,5 @@ Prefijo Streamer
 {% hint style="success" %}
 ¿Ya tienes todos los requisitos de un rango que quieras reclamar?
 
-Unete a nuestro [discord](https://discord.satipocraft.net) y abre un ticket para pedir el rango media!
+Unete a nuestro [discord](https://wiki.eternalsmp.lat) y abre un ticket para pedir el rango media!
 {% endhint %}

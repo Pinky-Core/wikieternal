@@ -9,13 +9,13 @@ hidden: true
 
 <mark style="color:red;">**INDICE**</mark>
 
-[<mark style="color:blue;">**\[ 1 \] - Como conseguir una tienda**</mark> ](mercado.md#1-como-conseguir-una-tienda)\
-[<mark style="color:blue;">**\[ 2 \] - Comandos extra**</mark>](mercado.md#2-comandos-extra)\
-[<mark style="color:blue;">**\[ 3 \] - Como crear tu tienda**</mark>](mercado.md#3-como-crear-tu-tienda)
+[<mark style="color:#9000df;">**\[ 1 \] - Como conseguir una tienda**</mark> ](mercado.md#1-como-conseguir-una-tienda)\
+[<mark style="color:#9000df;">**\[ 2 \] - Comandos extra**</mark>](mercado.md#2-comandos-extra)\
+[<mark style="color:#9000df;">**\[ 3 \] - Como crear tu tienda**</mark>](mercado.md#3-como-crear-tu-tienda)
 
 
 
-## <mark style="color:blue;">\[ 1 ] - Como conseguir una tienda</mark>&#x20;
+## <mark style="color:#9000df;">\[ 1 ] - Como conseguir una tienda</mark>&#x20;
 
 Para alquilar una tienda del <mark style="color:green;">**/warp mercado**</mark> deberas de buscar una que no este alquilada por otro usuario, si la encontraste pulsa click derecho para alquilarla o entra dentro de ella y escribe <mark style="color:green;">**/as rent**</mark> | se te cobrara el dinero que valga la tienda y la habras alquilado por 15 días, puedes extender el alquiler pulsando de nuevo en el cartel de tu tienda que se encuentra en la entrada. \
 \
@@ -24,7 +24,7 @@ Para alquilar una tienda del <mark style="color:green;">**/warp mercado**</mark>
 Si quieres dejar de tener una tienda usa <mark style="color:green;">**/as unrent**</mark> | Recibirás una parte del dinero que pagaste para alquilarla dependiendo del tiempo que la tuviste y cuanto tienpote faltaba para que acabe el alquiler.\
 <br>
 
-## <mark style="color:blue;">\[ 2 ] - Comandos extra</mark>
+## <mark style="color:#9000df;">\[ 2 ] - Comandos extra</mark>
 
 Usa <mark style="color:purple;">**/as addfriend \[Nombre]**</mark> para dar permisos a un jugador en tu tienda y asi podrá construir, romper, abrir cofres...
 
@@ -42,11 +42,11 @@ Usa <mark style="color:purple;">**/as tp \[Nombre de la tienda]**</mark> para te
 
 
 
-## <mark style="color:blue;">\[ 3 ] - Como crear tu tienda</mark>
+## <mark style="color:#9000df;">\[ 3 ] - Como crear tu tienda</mark>
 
 ¿Alquilaste una tienda pero no sabes como empezar a vender o comprar productos?
 
-Tenemos un video para ti [<mark style="color:blue;">**\[Pulsa aqui\]**</mark>](https://youtu.be/LrKA2KWiNVI?si=jFwAKfjiwXVOIEpl) o sigue leyendo mas abajo:
+Tenemos un video para ti [<mark style="color:#9000df;">**\[Pulsa aqui\]**</mark>](https://youtu.be/LrKA2KWiNVI?si=jFwAKfjiwXVOIEpl) o sigue leyendo mas abajo:
 
 Si quieres vender un producto le das click a un cofre con el item y añades la cantidad x1 polvora y si quieres que te lo vendan usa <mark style="color:green;">**/qs sell**</mark>
 

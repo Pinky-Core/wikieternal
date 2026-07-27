@@ -5,7 +5,7 @@ hidden: true
 
 # 🧩 Marcos invisibles
 
-## <mark style="color:blue;">¿Como se craftea?</mark>
+## <mark style="color:#9000df;">¿Como se craftea?</mark>
 
 Requieres 8 marcos y 1 pocion de invisibilidad de 8mins tirable.
 

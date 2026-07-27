@@ -1,13 +1,13 @@
 ---
-description: Normativa general de SatipoCraft Network
+description: Normativa general de EternalSMP Network
 ---
 
 # 👶 Normativa general
 
 {% hint style="warning" %}
-Al jugar/interactuar en **SatipoCraft** aceptas nuestras normas, el hecho de no saberlas, no te hace inocente ante ninguna situación. Estas normas se siguen al pie de la letra y el personal tiene permitido sancionar por alguna otra razón que no se encuentre en este documento con la autorización del Equipo Directivo. En las normativas de SatipoCraft usamos el sentido común, por favor, úsalo tu también.\
+Al jugar/interactuar en **EternalSMP** aceptas nuestras normas, el hecho de no saberlas, no te hace inocente ante ninguna situación. Estas normas se siguen al pie de la letra y el personal tiene permitido sancionar por alguna otra razón que no se encuentre en este documento con la autorización del Equipo Directivo. En las normativas de EternalSMP usamos el sentido común, por favor, úsalo tu también.\
 \
-La administración de **SatipoCraft** puede modificar este reglamento cuando sea necesario y sin previo aviso.
+La administración de **EternalSMP** puede modificar este reglamento cuando sea necesario y sin previo aviso.
 {% endhint %}
 
 ## <mark style="color:red;">CLIENTE</mark>
@@ -45,8 +45,8 @@ La administración de **SatipoCraft** puede modificar este reglamento cuando sea
 15. Negarse a revisión, entrar después del tiempo establecido y/o desconectarse durante la advertencia o revisión es sancionable.
 16. Admitir el uso de hacks también es sancionable.
 17. Queda estrictamente prohibida cualquier conducta que incentive el abandono temprano del servidor ( killfarms de novatos, acoso, hostigamiento, matar a personas con kit inicial por diversion, etc) Justificada la kill si el kit inicial es el que esta molestando/golpeando
-18. No se tiene permitido crear servidores externos de discord para la creacion dichos eventos dentro de SatipoCraft. Cualquier comparticion incluye links en la comunidad o algun otro lado sera eliminado o sancionado permanentemente de la red satipocraft.
-19. No se permite romper la economia ninguna de las modalidades de la red de satipocraft.
+18. No se tiene permitido crear servidores externos de discord para la creacion dichos eventos dentro de EternalSMP. Cualquier comparticion incluye links en la comunidad o algun otro lado sera eliminado o sancionado permanentemente de la red eternalsmp.
+19. No se permite romper la economia ninguna de las modalidades de la red de eternalsmp.
 20. No se permite vender rangos VIPS o items por algo externo de la network, ya sea dinero real etc.
 21. No se permite robar cuentas de Usuarios. (Existen [responsabilidades](responsabilidades.md) de ello)
 22. No acuses a alguien sin pruebas
@@ -100,5 +100,5 @@ Queda **estrictamente prohibido** el uso de cuentas adicionales, ya sea para dej
 
 
 {% hint style="info" %}
-TIP: Si encuentras algún jugador incumpliendo la normativa, por favor abre un ticket en nuestro [Discord](https://discord.satipocraft.net).
+TIP: Si encuentras algún jugador incumpliendo la normativa, por favor abre un ticket en nuestro [Discord](https://wiki.eternalsmp.lat).
 {% endhint %}

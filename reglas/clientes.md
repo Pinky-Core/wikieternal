@@ -77,5 +77,5 @@ Estos clientes que salen a continuación son los clientes mas indicados para uti
 
 
 {% hint style="info" %}
-TIP: Si encuentras algún jugador incumpliendo la normativa, por favor abre un ticket en nuestro [Discord](https://discord.satipocraft.net).
+TIP: Si encuentras algún jugador incumpliendo la normativa, por favor abre un ticket en nuestro [Discord](https://wiki.eternalsmp.lat).
 {% endhint %}
