@@ -1,5 +1,6 @@
 ---
 description: ¿Como se craftea un elevador? ¿Como se usa?
+hidden: true
 ---
 
 # 🔋 Elevadores

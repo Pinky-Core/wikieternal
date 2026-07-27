@@ -2,19 +2,19 @@
 description: ¿Cómo voy al spawn? ¿Cómo me teletransporto hacia mi amigo?
 ---
 
-# 🚗 Básico de Survival
+# 🚗 Básico de Semianárquico
 
 
 
-## <mark style="color:green;">Aquí tendrás una breve información lo básico de un Survival.</mark>
+## <mark style="color:#9000df;">Aquí encontrarás la información básica de Semianárquico.</mark>
 
-## <mark style="color:#9000df;">¿Cómo voy al spawn de Survival?</mark>
+## <mark style="color:#9000df;">¿Cómo voy al spawn de Semianárquico?</mark>
 
 Para ir al spawn, deberás usar <mark style="color:purple;">**/spawn**</mark> y iras al inicio del servidor.
 
-## <mark style="color:#9000df;">¿Cómo me teletransporto aleatoriamente en Survival?</mark>
+## <mark style="color:#9000df;">¿Cómo me teletransporto aleatoriamente en Semianárquico?</mark>
 
-Tienes que usar <mark style="color:purple;">**/tpr**</mark> en Survival y podrás teletranspórtate aleatoriamente.
+Usa <mark style="color:purple;">**/tpr**</mark> en Semianárquico para teletransportarte aleatoriamente.
 
 <mark style="color:red;">**Advertencia:**</mark> Tienes un cooldown de 20 minutos.
 

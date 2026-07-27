@@ -10,7 +10,7 @@ coverY: 84
 
 ### <mark style="color:#9000df;">¡Bienvenid@!</mark>
 
-¿Necesitas ayuda para proteger tu hogar? ¿No sabes los comandos de SkyBlock e Survival? ¿Quieres enviar un mensaje privado a un jugador? \
+¿Necesitas ayuda para comenzar en Semianárquico? ¿No sabes qué comandos utilizar? ¿Quieres enviar un mensaje privado a otro jugador? \
 El objetivo de esta guía es que puedas resolver todas tus dudas relacionadas con el servidor.&#x20;
 
 En el **lado izquierdo** puedes encontrar un menú con diferentes apartados.
