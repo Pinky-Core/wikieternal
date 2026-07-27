@@ -1,27 +1,28 @@
 ---
 description: Wiki del servidor de Minecraft EternalSMP.
-cover: .gitbook/assets/banner-eternalsmp.jpg
-coverY: 84
+cover: .gitbook/assets/ChatGPT Image 27 jul 2026, 08_50_46 p.m. (1).png
+coverY: 105.83839881393625
+coverHeight: 372
 ---
 
 # 📖 Wiki de EternalSMP
 
 <figure><img src=".gitbook/assets/eternalsmp-logo.png" alt="Logo de EternalSMP"><figcaption></figcaption></figure>
 
-### <mark style="color:#9000df;">¡Bienvenid@!</mark>
+### ¡Bienvenid@!
 
-¿Necesitas ayuda para comenzar en Semianárquico? ¿No sabes qué comandos utilizar? ¿Quieres enviar un mensaje privado a otro jugador? \
-El objetivo de esta guía es que puedas resolver todas tus dudas relacionadas con el servidor.&#x20;
+¿Necesitas ayuda para comenzar en Semianárquico? ¿No sabes qué comandos utilizar? ¿Quieres enviar un mensaje privado a otro jugador?\
+El objetivo de esta guía es que puedas resolver todas tus dudas relacionadas con el servidor.
 
 En el **lado izquierdo** puedes encontrar un menú con diferentes apartados.
 
 En la **parte superior** derecha tienes un buscador para agilizar tus dudas.
 
-## <mark style="color:#9000df;">**¿Quiénes somos?**</mark>
+## **¿Quiénes somos?**
 
 Somos la comunidad de EternalSMP, donde podrás disfrutar de distintas modalidades junto a otros jugadores.
 
-## <mark style="color:#9000df;">IP DEL SERVIDOR:</mark>
+## IP DEL SERVIDOR:
 
 **JAVA:** eternalsmp.lat
 
@@ -29,7 +30,7 @@ Somos la comunidad de EternalSMP, donde podrás disfrutar de distintas modalidad
 
 ¿No sabes entrar en bedrock? [Click aquí.](servidor/faq.md#como-se-entra-en-bedrock-al-servidor)
 
-### <mark style="color:#9000df;">REDES DE ETERNALSMP</mark>
+### REDES DE ETERNALSMP
 
 Nuestra web oficial: [¡Click aquí!](https://www.eternalsmp.lat)
 
