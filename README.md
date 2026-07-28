@@ -1,8 +1,8 @@
 ---
 description: Wiki del servidor de Minecraft EternalSMP.
 cover: .gitbook/assets/ChatGPT Image 27 jul 2026, 08_52_59 p.m. (1).png
-coverY: 110.3009636767976
-coverHeight: 342
+coverY: 133.97183098591546
+coverHeight: 311
 layout:
   width: default
   cover:
