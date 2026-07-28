@@ -1,7 +1,13 @@
 ---
 description: Wiki del servidor de Minecraft EternalSMP.
+cover: .gitbook/assets/banner-eternalsmp.jpg
+coverY: 84
 layout:
   width: default
+  cover:
+    visible: true
+    size: background
+    mask: none
   title:
     visible: true
   description:
