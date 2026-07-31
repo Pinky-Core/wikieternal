@@ -18,6 +18,7 @@ Permite enviar un mensaje privado a un jugador.
 <mark style="color:#9000df;">**/r (mensaje)**</mark>\
 Permite responder al último mensaje privado.
 
+<<<<<<< Updated upstream
 <mark style="color:#9000df;">**/balance**</mark>\
 Permite ver el dinero que tienes en la modalidad.
 
@@ -41,3 +42,14 @@ Permite teletransportar a tu base/casa, con el nombre que la hayas guardado.
 
 <mark style="color:#9000df;">**/delhome \[nombre]**</mark>\
 Permite borrar tu home si ya no la quieres.
+=======
+**/sb**\
+Permite deshabilitar/habilitar la scoreboard de la modalidad.
+
+**/tpa \[jugador]**\
+Envía una solicitud para teletransportarte hacia otro jugador.
+
+**/tpaccept**\
+Acepta una solicitud de teletransporte.
+
+>>>>>>> Stashed changes
