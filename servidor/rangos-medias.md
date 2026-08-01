@@ -4,87 +4,72 @@ description: Aquí están los requisitos de los rangos Media del servidor.
 
 # 📸 Rangos Medias
 
-## <mark style="color:red;">Rango Youtuber:</mark>&#x20;
+## <mark style="color:red;">Rango Youtuber:</mark>
 
-1 videos con mas de 500 Views jugando en el servidor.
-
-Colocar el ip y puerto en descripción #eternalsmp
-
-Este rango es mensual y se mantiene subiendo al menos 2 videos por mes&#x20;
+✦ 1 videos con mas de 500 Views jugando en el servidor.\
+✦ Colocar el ip y puerto en descripción #eternalsmp\
+✦ Este rango es mensual y se mantiene subiendo al menos 2 videos por mes
 
 ## <mark style="color:purple;">Obtienes:</mark>
 
-X8 Sethomes&#x20;
+Kit Youtuber (Cooldown de 7d)
 
-X5 Jobs Simultaneos&#x20;
+Prefijo YouTuber
 
-X8 Misiones Simultaneas&#x20;
++1.5M de Dinero
 
-Kit Youtuber Cada Mes&#x20;
+/Tpahere /Disposal /Fly
 
-Sin espera en TPAs&#x20;
+## <mark style="color:orange;">Rango Tiktoker:</mark>
 
-Prefijo YouTuber&#x20;
+✦ 3 videos con mas de 1000 Views jugando en EternalSMP\
+✦ Colocar ip y puerto en pantalla o en descripcion #eternalsmp\
+✦ Este rango es mensual y se mantiene subiendo al menos 3 tiktoks por mes
 
-+50,000 Monedas&#x20;
+## <mark style="color:purple;">Obtienes:</mark>
 
-5 Subastas Simultaneas&#x20;
+Kit Tiktoker (Cooldown de 7d)
 
-/Tpahere /Skull /Colors /AFK Infinito /Craft /Hat /Clear /Suicide /Disposal /Fly
+Prefijo TikToker
 
-## <mark style="color:orange;">Rango Tiktoker:</mark>&#x20;
++1M de Dinero
 
-3 videos con mas de 1000 Views jugando en el sv,&#x20;
-
-colocar ip y puerto en pantalla o en descripcion #eternalsmp
-
-Este rango es mensual y se mantiene subiendo al menos 3 tiktoks por mes&#x20;
-
-## <mark style="color:purple;">Obtienes:</mark>&#x20;
-
-X6 Sethomes&#x20;
-
-X4 Jobs Simultáneos&#x20;
-
-X5 Misiones Simultaneas&#x20;
-
-Kit Tiktoker&#x20;
-
-Cada Mes Sin espera en TPAs&#x20;
-
-Prefijo TikToker&#x20;
-
-5 Subastas Simultaneas&#x20;
-
-/Tpahere /Colors /AFK Infinito /Fly
-
-
+/Tpahere /Disposal /Fly
 
 ## <mark style="color:purple;">Rango Streamer:</mark>
 
-2 streams al mes jugando en el sv, colocar ip y puerto en pantalla o chatbot Media minima de 6 personas&#x20;
+✦ 2 streams al mes jugando en el Servidor\
+✦ Colocar ip y puerto en pantalla\
+✦ Media minima de 6 personas\
+✦ Este rango es mensual y se mantiene transmitiendo al menos 3 streams por mes
 
-Este rango es mensual y se mantiene transmitiendo al menos 3 streams por mes&#x20;
+## <mark style="color:purple;">**Obtienes:**</mark>
 
-## <mark style="color:purple;">**Obtienes:**</mark>&#x20;
-
-X4 Sethomes
-
-X3 Jobs Simultaneos&#x20;
-
-X4 Misiones Simultaneas&#x20;
-
-Kit Streamer Cada Mes&#x20;
-
-Sin espera en TPAs&#x20;
+Kit Streamer (Cooldown de 7d)
 
 Prefijo Streamer
 
-4 Subastas Simultaneas&#x20;
++2.5M de Dinero
 
-/Tpahere /Colors /AFK Infinito /Hat /Clear /Fly
+/Tpahere /Disposal /Fly
 
+## <mark style="color:$danger;">Rango FAMOSO</mark><mark style="color:purple;">:</mark>
 
+✦ Subir un video de TikTok relacionado con el servidor\
+✦ Contar con:\
+✦ 10,000+ vistas\
+✦ 500+ likes\
+✦ El video debe mostrar claramente el gameplay y la IP del servidor
+
+## <mark style="color:$danger;">**Obtienes**</mark><mark style="color:purple;">**:**</mark>
+
+Kit Famoso (Cooldown de 7d)
+
+Prefijo Famoso
+
++5M de Dinero
+
+/Tpahere /Disposal /Fly
 
 {% hint style="success" %}
 ¿Ya tienes todos los requisitos de un rango que quieras reclamar?
